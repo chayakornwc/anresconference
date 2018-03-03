@@ -1,0 +1,53 @@
+{
+
+"table2":{
+  "English":{
+    "1":"Types of register",
+    "date2": "Early registration fee",
+    "date3":"Late registration ",
+    "date4":"Registration fee "
+
+    },
+  "Student":{
+        "1": "Student",
+        "2": "320 USD",
+     	 "3":"370 USD",
+       "4":"420 USD"
+     },
+  "MOU":{
+    "1":" Student (ASEAN/MOU with KU)",
+    "2":"270 USD",
+    "3":"320 USD",
+    "4":"370 USD"
+  },
+  "ID": {"1":"International Delegate",
+    "2":"470 USD",
+    "3":"520 USD",
+    "4":"570 USD"
+  },
+  "ID MOU":{
+  "1":"International Delegate (ASEAN/MOU with KU)",
+  "2":"400 USD",
+  "3":"450 USD",
+  "4":"500 USD"
+  }
+},
+"table1":{"Thai":{
+       "1":"อัตราลงทะเบียน",
+       "td2":"อัตราพิเศษ",
+       "td3":"อัตราปกติ",
+       "td4": "อัตราหน้างาน"
+},"StudentThai":{
+  "1": "นิสิต/นักศึกษา",
+  "2": "3,500 บาท",
+  "3": "4,500 บาท",
+  "4": "5,500 บาท"
+},
+"บุคคลทั่วไป":{
+  "1": "บุคคลทั่วไป",
+  "2": "5,500 บาท",
+  "3": "6,500 บาท",
+  "4": "7,500 บาท"
+}
+}
+}
